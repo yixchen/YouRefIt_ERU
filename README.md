@@ -12,7 +12,7 @@ We study the machine's understanding of embodied reference: One agent uses both 
 For more details, please refer to our [paper](https://yixchen.github.io/YouRefIt/file/iccv2021_yourefit.pdf).
 
 <p align="center">
-  <img src="https://yixchen.github.io/YouRefIt/file/overview.png" width="50%"/>
+  <img src="teaser/overview.png" width="50%"/>
 </p>
 
 ## Checklist
