@@ -1,0 +1,11 @@
+## version of pytorch
+torch
+torchvision
+opencv-python
+matplotlib
+scipy
+argparse
+PilloW
+pytorch-pretrained-bert
+bounding-box
+pickle5
