@@ -30,7 +30,7 @@ Run
 ```
 
 ## Dataset
-Download the YouRefIt dataset from [Google Drive]() and put under ```./ln_data```
+Download the YouRefIt dataset from [Dataset Request Page](https://yixchen.github.io/YouRefIt/request.html) and put under ```./ln_data```
 
 ## Model weights
 * [Yolov3](https://pjreddie.com/media/files/yolov3.weights): download the pretrained model and place the file in ``./saved_models`` by 
