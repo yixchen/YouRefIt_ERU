@@ -18,7 +18,7 @@ For more details, please refer to our [paper](https://yixchen.github.io/YouRefIt
 ## Checklist
 
 + [x] Image ERU
-+ [ ] Video ERU
++ [x] Video ERU dataset
 
 ## Installation
 
